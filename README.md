@@ -12,3 +12,6 @@ php -S localhost:8000
 Substitute 8000 with another port number if you wish.
 
 Point your browser at the localhost port number to see the current state of the website.
+
+## Contributors
+qiang-bi, williamho123, rlee303, sarahjwong

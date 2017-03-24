@@ -1,5 +1,4 @@
 # Billy 1.0
-EECS 330 Project - Winter 2017
 
 A simple user interface to track website browsing habits.
 
